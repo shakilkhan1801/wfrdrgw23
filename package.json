@@ -1,0 +1,30 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "description": "Telebot ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shakilkhan1801/gggwrwrtyhk45734536.git"
+  },
+  "keywords": [
+    "code",
+    "step",
+    "by",
+    "step"
+  ],
+  "author": "Shakil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shakilkhan1801/gggwrwrtyhk45734536/issues"
+  },
+  "homepage": "https://github.com/shakilkhan1801/gggwrwrtyhk45734536#readme",
+  "dependencies": {
+    "mongoose": "^7.5.1",
+    "node-telegram-bot-api": "^0.63.0",
+    "uuid": "^9.0.1"
+  }
+}
